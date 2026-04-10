@@ -41,7 +41,7 @@ Focusing on building scalable, maintainable, and efficient software solutions.
 
 ### Connect with me
 -  Based in **Béjaïa, Algeria**
--  Studying **Génie Logiciel (GL)**
+-  Studying **Software engineering**
 - [maouchelina458@gmail.com]
 
 ---
