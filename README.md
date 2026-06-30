@@ -79,7 +79,7 @@ I specialize in **end-to-end automation**—from CI/CD pipelines and development
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <img src="https://github-readme-stats.vercel.app/api?username=linaMCH&show_icons=true&theme=transparent&hide_rank=false" />
     </td>
     <td align="center" width="50%">
