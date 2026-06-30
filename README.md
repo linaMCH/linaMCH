@@ -59,7 +59,7 @@ I specialize in **end-to-end automation**—from CI/CD pipelines and development
 
 #### **Swimming Club Management Platform** — Full-Stack Web App
 *Club administration system with member management, class scheduling, and billing*  
-[Repo](https://github.com/linaMCH/assirem-club) · **Tech:** Vue.js 3, Spring Boot, Oracle  
+[Repo](https://github.com/linaMCH/AssiremClubNatation) · [Live](https://www.assirem-natation.com/) · **Tech:** Vue.js 3, Spring Boot, Oracle  
 
 #### **PharmaGO** — JavaFX Desktop Application
 *Pharmacy management system with inventory tracking and transaction logging*  
@@ -83,7 +83,7 @@ I specialize in **end-to-end automation**—from CI/CD pipelines and development
       <img src="https://github-readme-stats.vercel.app/api?username=linaMCH&show_icons=true&theme=transparent&hide_rank=false" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=linaMCH&theme=transparent" />
+      <img src="https://streak-stats.demolab.com?user=linaMCH&theme=transparent" />
     </td>
   </tr>
 </table>
