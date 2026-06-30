@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 I specialize in **end-to-end automation**—from CI/CD pipelines and development tooling to AI-assisted workflows and security-hardened applications. I don't just build features; I engineer efficiency into every layer.
 
@@ -51,11 +51,11 @@ I specialize in **end-to-end automation**—from CI/CD pipelines and development
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 #### **DZmarket** — React + Supabase Classifieds Platform
 *Leboncoin-inspired marketplace with RLS policies, image pipelines, and real-time messaging*  
-[Repo](https://github.com/linaMCH/DZmarket) · [Live](https://dzmarket-vercel.app) · **Tech:** React, Supabase, Tailwind, Vercel  
+[Repo](https://github.com/linaMCH/DZmarket) · [Live](comming soon) · **Tech:** React, Supabase, Tailwind, Vercel  
 
 #### **Swimming Club Management Platform** — Full-Stack Web App
 *Club administration system with member management, class scheduling, and billing*  
@@ -63,19 +63,19 @@ I specialize in **end-to-end automation**—from CI/CD pipelines and development
 
 #### **PharmaGO** — JavaFX Desktop Application
 *Pharmacy management system with inventory tracking and transaction logging*  
-[Repo](https://github.com/linaMCH/PharmaGO) · **Tech:** JavaFX, Java, Database  
+[Repo](https://github.com/ImeneeSh/PharmaGo) · **Tech:** JavaFX, Java, Database (Co-developed)  
 
 #### **C-to-Java Compiler** — Lexer & Parser Implementation
 *Complete compiler built with JFlex, supporting control flow and function declarations*  
-[Repo](https://github.com/linaMCH/c-java-compiler) · **Tech:** JFlex, Java, Parser Generators  
+[Repo](https://github.com/linaMCH/Compilateur-C) · **Tech:** JFlex, Java, Parser Generators  
 
 #### **StegaCrypt** — Cryptography & Steganography Tool
 *Encryption, steganography, and digital signatures in one utility*  
-[Repo](https://github.com/linaMCH/StegaCrypt) · **Tech:** Python, Cryptography, RSA, AES  
+[Repo](https://github.com/ImeneeSh/StegaCrypt) · **Tech:** Python, Cryptography, RSA, AES  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
@@ -98,12 +98,12 @@ I specialize in **end-to-end automation**—from CI/CD pipelines and development
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lina-maouche-774510334)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linaMCH)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maouchelina458@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://linaMCH.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linamaouchedev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://linamch.github.io/MyPortfolio/)
 
 **Based in:** Béjaïa, Algeria | **Available for:** Remote roles, internships, freelance projects  
 **Languages:** English, French, Arabic, Kabyle (bilingual context switching for international teams)
